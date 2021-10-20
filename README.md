@@ -1,6 +1,6 @@
 # wwcb-ethereum-basics
 
-The presentation deck for the Women Who Code Blockchain - Ethereum Basics event can be found at [Ethereum Basics Presentation Deck]([https://link)](https://drive.google.com/file/d/1FkQpAZfdlCZvWXgG7jQTT48d9X8IAE5S/view?usp=sharing)
+The presentation deck and the workbook for the Women Who Code Blockchain - Ethereum Basics event can be found in the resources folder of this repository.
 
 ## Steps to run the application on your machine
 
