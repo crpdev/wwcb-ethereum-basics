@@ -10,6 +10,8 @@ The presentation deck and the workbook for the Women Who Code Blockchain - Ether
 - The commands works in a linux based operating system. If you're working on windows, rename the file extension from sh to cmd
 - deployToDev script has rm command which works only in linux. You might have to remove the rm command when working on Windows
 
+### Steps to run the DApp
+
 1. Install the dependencies by issuing the command `npm install` in a terminal/ cmd prompt from the project root directory
 2. Issue the command `startGanacheCli.sh [Linux or Mac] or startGanacheCli.cmd [Windows]` from the scripts directory to start the local Ganache ethereum network
 3. Issue the command `deployToDev.sh [Linux or Mac] or deployToDev.cmd [Windows]` from the scripts directory to start the local Ganache ethereum network
